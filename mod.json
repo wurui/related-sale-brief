@@ -2,9 +2,9 @@
   "RULE_VERSION":"20180724",
   "name": "related-sale-brief",
   "apiDependencies": [
-  {
-    "name": "ui-sale"
-  }
-]
+	  {
+	    "name": "ui-sale"
+	  }
+	]
 }
 
